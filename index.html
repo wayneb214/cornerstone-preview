@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Cornerstone History — preview</title>
+  <meta name="description" content="A browser preview of the Cornerstone History iPhone app. No payments or ads are loaded.">
+  <link rel="icon" href="images/favicon.png">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div class="desk">
+    <div class="shell">
+      <header class="preview-bar">
+        <div><strong>Preview mode: no real payments</strong></div>
+        <label><input id="member-toggle" type="checkbox"> Preview as member</label>
+      </header>
+      <div class="app">
+        <main id="screen" class="screen" data-ready="false">
+          <p class="note">Loading the notes…</p>
+        </main>
+        <div id="overlay"></div>
+        <nav id="tabs" class="tabs" aria-label="App sections">
+          <button type="button" data-tab="today" data-label="Today"></button>
+          <button type="button" data-tab="places" data-label="Places"></button>
+          <button type="button" data-tab="quiz" data-label="Quiz"></button>
+          <button type="button" data-tab="members" data-label="Members"></button>
+        </nav>
+      </div>
+    </div>
+  </div>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="js/app.js"></script>
+  <noscript><p style="color:#ece2cd;padding:24px">This preview needs JavaScript to show the notes. It does not load ads or analytics.</p></noscript>
+</body>
+</html>

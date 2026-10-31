@@ -1,0 +1,139 @@
+{
+  "episodes": [
+    {
+      "id": "cleopatra-20min",
+      "title": "Cleopatra: The Real History of Egypt's Last Queen and Her Lost Alexandria",
+      "youtube_id": "PLACEHOLDER_CLEOPATRA_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "cleopatra-20min.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "colosseum-20min",
+      "title": "The Colosseum: The Real History of Rome's Arena, from Nero's Lake to Today",
+      "youtube_id": "PLACEHOLDER_COLOSSEUM_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "colosseum-20min.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "conclave-20min",
+      "title": "The Papal Conclave: How the Church Learned to Lock In Its Cardinals",
+      "youtube_id": "PLACEHOLDER_CONCLAVE_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "conclave-20min.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "duomo-20min",
+      "title": "Brunelleschi's Dome: How Florence Built the Impossible",
+      "youtube_id": "PLACEHOLDER_DUOMO_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "duomo-20min.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep01-vatican",
+      "title": "Why the Vatican Is a Country",
+      "youtube_id": "PLACEHOLDER_EP01_VATICAN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep01-vatican.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep02-westminster-abbey",
+      "title": "Why Britain's Monarchs Are Crowned in This Church",
+      "youtube_id": "PLACEHOLDER_EP02_WESTMINSTER_ABBEY",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep02-westminster-abbey.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep03-parliament-fire",
+      "title": "How Medieval Receipts Burned Down Parliament",
+      "youtube_id": "PLACEHOLDER_EP03_PARLIAMENT_FIRE",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep03-parliament-fire.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep04-florence-duomo",
+      "title": "How Brunelleschi Built Florence's Impossible Dome",
+      "youtube_id": "PLACEHOLDER_EP04_FLORENCE_DUOMO",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep04-florence-duomo.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep05-illuminati",
+      "title": "The Illuminati: The Real Secret Society Behind the Myth",
+      "youtube_id": "PLACEHOLDER_EP05_ILLUMINATI",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep05-illuminati.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep06-freemasons",
+      "title": "The Freemasons: The Real History of the Secret Society",
+      "youtube_id": "PLACEHOLDER_EP06_FREEMASONS",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep06-freemasons.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "ep07-knights-templar",
+      "title": "The Knights Templar: The Real History Behind the Legend",
+      "youtube_id": "PLACEHOLDER_EP07_KNIGHTS_TEMPLAR",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "ep07-knights-templar.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "medici-20min",
+      "title": "The Medici: The Bankers Who Built the Renaissance",
+      "youtube_id": "PLACEHOLDER_MEDICI_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": "medici-20min.md",
+      "title_is_placeholder": false
+    },
+    {
+      "id": "pompeii-20min",
+      "title": "PLACEHOLDER TITLE — pompeii-20min (no publishing package in this build)",
+      "youtube_id": "PLACEHOLDER_POMPEII_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": null,
+      "title_is_placeholder": true
+    },
+    {
+      "id": "ranked10-20min",
+      "title": "PLACEHOLDER TITLE — ranked10-20min (no publishing package in this build)",
+      "youtube_id": "PLACEHOLDER_RANKED10_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": null,
+      "title_is_placeholder": true
+    },
+    {
+      "id": "vatican-20min",
+      "title": "PLACEHOLDER TITLE — vatican-20min (no publishing package in this build)",
+      "youtube_id": "PLACEHOLDER_VATICAN_20MIN",
+      "youtube_url": null,
+      "youtube_is_placeholder": true,
+      "publishing_file": null,
+      "title_is_placeholder": true
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "places": [
+    {
+      "id": "pompeii",
+      "name": "Pompeii",
+      "city": "Pompeii",
+      "region": "Campania",
+      "country": "Italy",
+      "latitude": 40.7489,
+      "longitude": 14.4846,
+      "map_points": [
+        {
+          "name": "Pompeii",
+          "latitude": 40.7489,
+          "longitude": 14.4846
+        }
+      ],
+      "site_label": "Archaeological park at Pompeii, Campania.",
+      "history_points": [
+        {
+          "fact_id": "pompeii-20min:C01",
+          "episode_id": "pompeii-20min",
+          "claim_id": "C01",
+          "text": "Vesuvius erupted in AD 79; date debated (Aug vs Oct)",
+          "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+          "uncertainty": "Date debated"
+        },
+        {
+          "fact_id": "pompeii-20min:C02",
+          "episode_id": "pompeii-20min",
+          "claim_id": "C02",
+          "text": "Pompeii and Herculaneum were buried under metres of ash and pumice and lay hidden until the 18th c.",
+          "source": "https://en.wikipedia.org/wiki/Pompeii",
+          "uncertainty": null
+        },
+        {
+          "fact_id": "pompeii-20min:C14",
+          "episode_id": "pompeii-20min",
+          "claim_id": "C14",
+          "text": "Vesuvius had not erupted in living memory; Pliny the Younger's two letters to Tacitus are the only surviving eyewitness account",
+          "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+          "uncertainty": null
+        },
+        {
+          "fact_id": "pompeii-20min:C29",
+          "episode_id": "pompeii-20min",
+          "claim_id": "C29",
+          "text": "Traditional date 24 Aug from manuscripts; manuscripts vary (Aug 24 / Oct 30 / Nov 1 / Nov 23)",
+          "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+          "uncertainty": "Debate ongoing"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://pompeiisites.org/en/",
+      "official_url_label": "Pompeii Archaeological Park",
+      "official_url_note": "The park's English site responded on 31 Oct 2026. Opening times were not copied from it.",
+      "extra_links": [],
+      "last_checked": "2026-10-31",
+      "episode_id": "pompeii-20min",
+      "also_episode_ids": [],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Pompeii&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Pompeii&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Pompeii&aid={BOOKING_AID}"
+        }
+      ]
+    },
+    {
+      "id": "colosseum",
+      "name": "The Colosseum",
+      "city": "Rome",
+      "region": "Lazio",
+      "country": "Italy",
+      "latitude": 41.8902,
+      "longitude": 12.4922,
+      "map_points": [
+        {
+          "name": "The Colosseum",
+          "latitude": 41.8902,
+          "longitude": 12.4922
+        }
+      ],
+      "site_label": "The Flavian amphitheatre in Rome.",
+      "history_points": [
+        {
+          "fact_id": "colosseum-20min:C01",
+          "episode_id": "colosseum-20min",
+          "claim_id": "C01",
+          "text": "Begun under Vespasian c.70-72; Vespasian died 79; Titus completed top level and opened it 80 (or 81)",
+          "source": "https://en.wikipedia.org/wiki/Colosseum",
+          "uncertainty": "Opening 80 or 81"
+        },
+        {
+          "fact_id": "colosseum-20min:C02",
+          "episode_id": "colosseum-20min",
+          "claim_id": "C02",
+          "text": "Largest ancient amphitheatre; free-standing; between Caelian, Esquiline and Palatine hills",
+          "source": "https://en.wikipedia.org/wiki/Colosseum",
+          "uncertainty": null
+        },
+        {
+          "fact_id": "colosseum-20min:C05",
+          "episode_id": "colosseum-20min",
+          "claim_id": "C05",
+          "text": "Site of Nero's artificial lake in Domus Aurea grounds; lake drained/filled for amphitheatre",
+          "source": "https://en.wikipedia.org/wiki/Colosseum",
+          "uncertainty": null
+        },
+        {
+          "fact_id": "colosseum-20min:C08",
+          "episode_id": "colosseum-20min",
+          "claim_id": "C08",
+          "text": "Colossus of Nero, bronze, c.30 m, near entrance; name Colosseum likely from it",
+          "source": "https://en.wikipedia.org/wiki/Colossus_of_Nero",
+          "uncertainty": "Height estimates vary"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://colosseo.it/en/",
+      "official_url_label": "Parco archeologico del Colosseo",
+      "official_url_note": "The park's English site responded on 31 Oct 2026. Opening times were not copied from it.",
+      "extra_links": [],
+      "last_checked": "2026-10-31",
+      "episode_id": "colosseum-20min",
+      "also_episode_ids": [],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Colosseum+Rome&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Colosseum+Rome&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Colosseum+Rome&aid={BOOKING_AID}"
+        }
+      ]
+    },
+    {
+      "id": "vatican",
+      "name": "Vatican City",
+      "city": "Vatican City",
+      "region": "Rome",
+      "country": "Italy",
+      "latitude": 41.90217,
+      "longitude": 12.45394,
+      "map_points": [
+        {
+          "name": "St Peter's Basilica",
+          "latitude": 41.90217,
+          "longitude": 12.45394
+        },
+        {
+          "name": "Sistine Chapel",
+          "latitude": 41.90295,
+          "longitude": 12.45448
+        }
+      ],
+      "site_label": "Vatican City, including St Peter's Basilica and the Sistine Chapel.",
+      "history_points": [
+        {
+          "fact_id": "vatican-20min:C02",
+          "episode_id": "vatican-20min",
+          "claim_id": "C02",
+          "text": "Vatican City grew from the site of St Peter's tomb and basilica and the papal palace to a sovereign state in 1929.",
+          "source": "https://en.wikipedia.org/wiki/Vatican_City",
+          "uncertainty": null
+        },
+        {
+          "fact_id": "vatican-20min:C08",
+          "episode_id": "vatican-20min",
+          "claim_id": "C08",
+          "text": "Constantine ordered Old St Peter's built (begun c.318-322) with the altar over the monument believed to be Peter's grave.",
+          "source": "https://en.wikipedia.org/wiki/Old_St._Peter%27s_Basilica",
+          "uncertainty": "Start date range 318-333 in sources"
+        },
+        {
+          "fact_id": "ep01-vatican:C11",
+          "episode_id": "ep01-vatican",
+          "claim_id": "C11",
+          "text": "The Lateran Pacts were signed on 11 February 1929 by Cardinal Pietro Gasparri for the Holy See and Benito Mussolini for the Kingdom of Italy.",
+          "source": "https://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html",
+          "uncertainty": "Britannica's quick facts list Borgongini-Duca and Boselli as 'key people'; negotiators included Francesco Pacelli (not yet sourced). Signing location (Lateran Palace) not yet sourced."
+        },
+        {
+          "fact_id": "conclave-20min:C19",
+          "episode_id": "conclave-20min",
+          "claim_id": "C19",
+          "text": "Sixtus IV built the Sistine Chapel 1473–81; first conclave there Aug 1492 (6–11 Aug) elected Rodrigo Borgia (Alexander VI), notorious for allegations of vote-buying; Julius II later enacted stronger anti-simony rules.",
+          "source": "https://en.wikipedia.org/wiki/1492_papal_conclave",
+          "uncertainty": "Bribery 'alleged'/'almost certainly' — not proven"
+        },
+        {
+          "fact_id": "conclave-20min:C35",
+          "episode_id": "conclave-20min",
+          "claim_id": "C35",
+          "text": "Michelangelo painted the Sistine ceiling (1508–12) and the Last Judgement (1536–41).",
+          "source": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+          "uncertainty": "—"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://www.museivaticani.va/content/museivaticani/en.html",
+      "official_url_label": "Vatican Museums",
+      "official_url_note": "The museums site responded on 31 Oct 2026. Ticket rules and opening times were not copied from it.",
+      "extra_links": [
+        {
+          "label": "St Peter's Basilica",
+          "url": "https://www.basilicasanpietro.va/en"
+        }
+      ],
+      "last_checked": "2026-10-31",
+      "episode_id": "vatican-20min",
+      "also_episode_ids": [
+        "ep01-vatican",
+        "conclave-20min"
+      ],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Vatican+Museums&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Vatican+Museums&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Vatican+Museums&aid={BOOKING_AID}"
+        }
+      ]
+    },
+    {
+      "id": "florence-duomo",
+      "name": "Florence Cathedral",
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "latitude": 43.77315,
+      "longitude": 11.256,
+      "map_points": [
+        {
+          "name": "Florence Cathedral",
+          "latitude": 43.77315,
+          "longitude": 11.256
+        }
+      ],
+      "site_label": "The cathedral of Santa Maria del Fiore, the Duomo of Florence.",
+      "history_points": [
+        {
+          "fact_id": "duomo-20min:C01",
+          "episode_id": "duomo-20min",
+          "claim_id": "C01",
+          "text": "The new cathedral was begun in 1296 to a design by Arnolfo di Cambio, replacing Santa Reparata.",
+          "source": "https://duomo.firenze.it/en/opera-magazine/post/4436/the-dome-s-construction-work-begins-on-august-7th-1420",
+          "uncertainty": "Whether Arnolfo planned a dome of this size: 'not all historians agree' (Opera)"
+        },
+        {
+          "fact_id": "duomo-20min:C02",
+          "episode_id": "duomo-20min",
+          "claim_id": "C02",
+          "text": "In 1367 a model by Neri di Fioravanti (and a committee) was chosen over Giovanni di Lapo Ghini's; it fixed an octagonal dome about 45.5 m across.",
+          "source": "https://duomo.firenze.it/en/opera-magazine/post/4436/the-dome-s-construction-work-begins-on-august-7th-1420",
+          "uncertainty": "Columbia summary (search only) says the choice went to a citizens' referendum; names of the committee vary"
+        },
+        {
+          "fact_id": "duomo-20min:C30",
+          "episode_id": "duomo-20min",
+          "claim_id": "C30",
+          "text": "Pope Eugenius IV consecrated the cathedral on 25 March 1436.",
+          "source": "http://archivio.operaduomo.fi.it/cupola/ENG/HTML/S021/C471/T001/TBLOCK00.HTM",
+          "uncertainty": "Opera magazine says Eugene consecrated 'the Dome' on 30 Aug 1436 — conflict"
+        },
+        {
+          "fact_id": "duomo-20min:C31",
+          "episode_id": "duomo-20min",
+          "claim_id": "C31",
+          "text": "The dome itself was closed at the top on 30 August 1436.",
+          "source": "https://duomo.firenze.it/en/opera-magazine/post/4649/on-30-august-1436-the-work-on-brunelleschi-s-dome-was-completed",
+          "uncertainty": "Blessing that day often attributed to the Bishop of Fiesole (search only)"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://duomo.firenze.it/en",
+      "official_url_label": "Opera di Santa Maria del Fiore",
+      "official_url_note": "This is the Opera site cited in the research notes. An automated check on 31 Oct 2026 was refused (HTTP 403), which often means a browser check is required. Confirm it opens, and do not copy times from memory.",
+      "extra_links": [],
+      "last_checked": "2026-10-31",
+      "episode_id": "duomo-20min",
+      "also_episode_ids": [
+        "ep04-florence-duomo"
+      ],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Florence+Duomo&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Florence+Duomo&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Florence+Duomo&aid={BOOKING_AID}"
+        }
+      ]
+    },
+    {
+      "id": "palazzo-medici-riccardi",
+      "name": "Palazzo Medici Riccardi",
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "latitude": 43.77531,
+      "longitude": 11.25596,
+      "map_points": [
+        {
+          "name": "Palazzo Medici Riccardi",
+          "latitude": 43.77531,
+          "longitude": 11.25596
+        }
+      ],
+      "site_label": "The Medici palace in Florence. The building is now called Palazzo Medici Riccardi. That modern name is a site label, not a sourced claim.",
+      "history_points": [
+        {
+          "fact_id": "medici-20min:C25",
+          "episode_id": "medici-20min",
+          "claim_id": "C25",
+          "text": "Cosimo is said to have rejected Brunelleschi's palace design as too grand; chose Michelozzo.",
+          "source": "https://www.britannica.com/biography/Cosimo-de-Medici",
+          "uncertainty": "Anecdote via Vasari"
+        },
+        {
+          "fact_id": "medici-20min:C27",
+          "episode_id": "medici-20min",
+          "claim_id": "C27",
+          "text": "Donatello's bronze David: first freestanding nude since antiquity; made for the Medici; in their palace courtyard.",
+          "source": "https://en.wikipedia.org/wiki/David_(Donatello)",
+          "uncertainty": "Date and commission debated"
+        },
+        {
+          "fact_id": "medici-20min:C38",
+          "episode_id": "medici-20min",
+          "claim_id": "C38",
+          "text": "Sculpture garden near San Marco; Michelangelo c.1490 taken into the palace like a son.",
+          "source": "https://www.britannica.com/biography/Lorenzo-de-Medici",
+          "uncertainty": "Garden's status as 'school' debated"
+        },
+        {
+          "fact_id": "medici-20min:C42",
+          "episode_id": "medici-20min",
+          "claim_id": "C42",
+          "text": "1494 Charles VIII invaded; Piero yielded fortresses; Medici expelled Nov 1494; palace looted.",
+          "source": "https://www.britannica.com/topic/Medici-family",
+          "uncertainty": "—"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://www.palazzomediciriccardi.it/",
+      "official_url_label": "Palazzo Medici Riccardi",
+      "official_url_note": "The palace site responded on 31 Oct 2026. Opening times were not copied from it.",
+      "extra_links": [],
+      "last_checked": "2026-10-31",
+      "episode_id": "medici-20min",
+      "also_episode_ids": [],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Palazzo+Medici+Riccardi+Florence&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Palazzo+Medici+Riccardi+Florence&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Palazzo+Medici+Riccardi+Florence&aid={BOOKING_AID}"
+        }
+      ]
+    },
+    {
+      "id": "medici-chapels",
+      "name": "Medici Chapels",
+      "city": "Florence",
+      "region": "Tuscany",
+      "country": "Italy",
+      "latitude": 43.77485,
+      "longitude": 11.25359,
+      "map_points": [
+        {
+          "name": "Medici Chapels, San Lorenzo",
+          "latitude": 43.77485,
+          "longitude": 11.25359
+        }
+      ],
+      "site_label": "The Medici Chapels at the Basilica of San Lorenzo. The notes below are about San Lorenzo and the Old Sacristy. They do not describe every room in the chapels.",
+      "history_points": [
+        {
+          "fact_id": "medici-20min:C14",
+          "episode_id": "medici-20min",
+          "claim_id": "C14",
+          "text": "Giovanni died 1429, buried in the (Old) Sacristy at San Lorenzo.",
+          "source": "https://www.britannica.com/biography/Cosimo-de-Medici",
+          "uncertainty": "—"
+        },
+        {
+          "fact_id": "medici-20min:C24",
+          "episode_id": "medici-20min",
+          "claim_id": "C24",
+          "text": "Cosimo backed rebuilding of San Lorenzo; Brunelleschi designed the Old Sacristy.",
+          "source": "https://www.britannica.com/biography/Cosimo-de-Medici",
+          "uncertainty": "—"
+        },
+        {
+          "fact_id": "medici-20min:C63",
+          "episode_id": "medici-20min",
+          "claim_id": "C63",
+          "text": "She died 1743 and was buried at San Lorenzo.",
+          "source": "https://www.toscana.beniculturali.it (Segretariato regionale MiC Toscana: Anna Maria Luisa de' Medici e il Patto di Famiglia)",
+          "uncertainty": "—"
+        }
+      ],
+      "opening_times": "TBC — verify before you travel",
+      "opening_times_verified": false,
+      "admission": "TBC — verify before you travel",
+      "admission_verified": false,
+      "best_time_to_visit": "TBC — verify before you travel",
+      "best_time_verified": false,
+      "official_url": "https://www.cappellemedicee.it/",
+      "official_url_label": "Cappelle Medicee",
+      "official_url_note": "The chapels site responded on 31 Oct 2026. Opening times were not copied from it.",
+      "extra_links": [],
+      "last_checked": "2026-10-31",
+      "episode_id": "medici-20min",
+      "also_episode_ids": [],
+      "affiliate_links": [
+        {
+          "vendor": "GetYourGuide",
+          "url_template": "https://www.getyourguide.com/s/?q=Medici+Chapels+Florence&partner_id={GETYOURGUIDE_PARTNER_ID}"
+        },
+        {
+          "vendor": "Viator",
+          "url_template": "https://www.viator.com/searchResults/all?text=Medici+Chapels+Florence&pid={VIATOR_PID}"
+        },
+        {
+          "vendor": "Booking.com",
+          "url_template": "https://www.booking.com/searchresults.html?ss=Medici+Chapels+Florence&aid={BOOKING_AID}"
+        }
+      ]
+    }
+  ]
+}

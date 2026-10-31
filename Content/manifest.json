@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generator": "scripts/build_content.py",
+  "fact_count": 732,
+  "dated_fact_count": 115,
+  "quiz_count": 43,
+  "place_count": 6,
+  "episode_count": 15,
+  "youtube_placeholders": 15,
+  "skipped_claims": [
+    "ep05-illuminati:C23 dropped",
+    "ranked10-20min:C01 no citable source",
+    "vatican-20min:C56 no citable source"
+  ],
+  "visitor_disclaimer": "Opening times, ticket prices and the best time to visit are not confirmed in this app. They are marked TBC until someone checks the official site. Check before you travel.",
+  "youtube_channel_url": null,
+  "youtube_channel_note": "No Cornerstone History YouTube URL is in the publishing packages. The channel had not been created when this content was built. Put the real channel URL in this field when it exists."
+}

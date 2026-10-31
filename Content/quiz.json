@@ -1,0 +1,821 @@
+{
+  "questions": [
+    {
+      "id": "pompeii-c01-year",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C01",
+      "fact_id": "pompeii-20min:C01",
+      "topic": "Pompeii",
+      "prompt": "The notes place the eruption of Vesuvius that buried Pompeii in which year?",
+      "choices": [
+        "AD 79",
+        "AD 69",
+        "79 BC",
+        "AD 476"
+      ],
+      "correct_index": 0,
+      "explanation": "Vesuvius erupted in AD 79; date debated (Aug vs Oct)",
+      "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+      "source_location": "Date section",
+      "uncertainty": "Date debated"
+    },
+    {
+      "id": "pompeii-c14-letters",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C14",
+      "fact_id": "pompeii-20min:C14",
+      "topic": "Pompeii",
+      "prompt": "Whose two letters to Tacitus are the only surviving eyewitness account in these notes?",
+      "choices": [
+        "Seneca",
+        "Pliny the Younger",
+        "Tacitus",
+        "Suetonius"
+      ],
+      "correct_index": 1,
+      "explanation": "Vesuvius had not erupted in living memory; Pliny the Younger's two letters to Tacitus are the only surviving eyewitness account",
+      "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+      "source_location": "Pliny's letters",
+      "uncertainty": null
+    },
+    {
+      "id": "pompeii-c19-fleet",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C19",
+      "fact_id": "pompeii-20min:C19",
+      "topic": "Pompeii",
+      "prompt": "Who commanded the fleet at Misenum, according to the notes?",
+      "choices": [
+        "Pliny the Elder",
+        "Pliny the Younger",
+        "Tacitus",
+        "Seneca"
+      ],
+      "correct_index": 0,
+      "explanation": "Pliny the Elder commanded fleet at Misenum; author of Natural History",
+      "source": "https://en.wikipedia.org/wiki/Pliny_the_Elder",
+      "source_location": "Intro",
+      "uncertainty": null
+    },
+    {
+      "id": "pompeii-c12-quake",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C12",
+      "fact_id": "pompeii-20min:C12",
+      "topic": "Pompeii",
+      "prompt": "The notes date a severe earthquake at Pompeii to which day, while adding that some sources put it in 63?",
+      "choices": [
+        "5 Feb 62",
+        "24 Aug 79",
+        "17 Oct 79",
+        "5 Feb 70"
+      ],
+      "correct_index": 0,
+      "explanation": "Severe earthquake 5 Feb 62 (Seneca NQ 6.1; some date to 63); damage to Pompeii Herculaneum Nuceria",
+      "source": "https://en.wikipedia.org/wiki/Pompeii",
+      "source_location": "Earthquake",
+      "uncertainty": "62 vs 63"
+    },
+    {
+      "id": "pompeii-c02-hidden",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C02",
+      "fact_id": "pompeii-20min:C02",
+      "topic": "Pompeii",
+      "prompt": "The notes say Pompeii and Herculaneum lay hidden until which period?",
+      "choices": [
+        "the 18th c.",
+        "the 15th c.",
+        "the 12th c.",
+        "the 19th c."
+      ],
+      "correct_index": 0,
+      "explanation": "Pompeii and Herculaneum were buried under metres of ash and pumice and lay hidden until the 18th c.",
+      "source": "https://en.wikipedia.org/wiki/Pompeii",
+      "source_location": "Intro (4-6 m)",
+      "uncertainty": null
+    },
+    {
+      "id": "pompeii-c05-colony",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C05",
+      "fact_id": "pompeii-20min:C05",
+      "topic": "Pompeii",
+      "prompt": "After Sulla's siege, which colony name do the notes give Pompeii?",
+      "choices": [
+        "Colonia Cornelia Veneria Pompeianorum",
+        "Colonia Julia Felix",
+        "Colonia Claudia Ara",
+        "Colonia Augusta Emerita"
+      ],
+      "correct_index": 0,
+      "explanation": "Sulla besieged Pompeii 89 BC; ballista impact marks in walls; became Colonia Cornelia Veneria Pompeianorum with veterans settled",
+      "source": "https://en.wikipedia.org/wiki/Pompeii",
+      "source_location": "Roman period",
+      "uncertainty": null
+    },
+    {
+      "id": "pompeii-c29-traditional",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C29",
+      "fact_id": "pompeii-20min:C29",
+      "topic": "Pompeii",
+      "prompt": "Which date do the notes call the traditional manuscript date for the eruption?",
+      "choices": [
+        "24 Aug",
+        "24 Oct",
+        "17 Oct",
+        "5 Feb"
+      ],
+      "correct_index": 0,
+      "explanation": "Traditional date 24 Aug from manuscripts; manuscripts vary (Aug 24 / Oct 30 / Nov 1 / Nov 23)",
+      "source": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+      "source_location": "Date",
+      "uncertainty": "Debate ongoing"
+    },
+    {
+      "id": "pompeii-c11-riot",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C11",
+      "fact_id": "pompeii-20min:C11",
+      "topic": "Pompeii",
+      "prompt": "In which year do the notes place the amphitheatre riot between Pompeians and Nucerians?",
+      "choices": [
+        "AD 59",
+        "AD 62",
+        "AD 79",
+        "AD 70"
+      ],
+      "correct_index": 0,
+      "explanation": "AD 59 amphitheatre riot Pompeians vs Nucerians; Senate banned games ten years; fresco records it",
+      "source": "https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii",
+      "source_location": "History",
+      "uncertainty": null
+    },
+    {
+      "id": "pompeii-c06-amphitheatre",
+      "episode_id": "pompeii-20min",
+      "claim_id": "C06",
+      "fact_id": "pompeii-20min:C06",
+      "topic": "Pompeii",
+      "prompt": "The notes call Pompeii's amphitheatre one of the earliest surviving stone amphitheatres, from about which year?",
+      "choices": [
+        "70 BC",
+        "70 AD",
+        "89 BC",
+        "AD 59"
+      ],
+      "correct_index": 0,
+      "explanation": "Forum temples theatres baths; amphitheatre among earliest surviving stone amphitheatres (c. 70 BC)",
+      "source": "https://en.wikipedia.org/wiki/Amphitheatre_of_Pompeii",
+      "source_location": "Intro",
+      "uncertainty": null
+    },
+    {
+      "id": "colosseum-c01-begun",
+      "episode_id": "colosseum-20min",
+      "claim_id": "C01",
+      "fact_id": "colosseum-20min:C01",
+      "topic": "The Colosseum",
+      "prompt": "The notes say the Colosseum was begun under which emperor?",
+      "choices": [
+        "Vespasian",
+        "Titus",
+        "Nero",
+        "Hadrian"
+      ],
+      "correct_index": 0,
+      "explanation": "Begun under Vespasian c.70-72; Vespasian died 79; Titus completed top level and opened it 80 (or 81)",
+      "source": "https://en.wikipedia.org/wiki/Colosseum",
+      "source_location": "History: Construction",
+      "uncertainty": "Opening 80 or 81"
+    },
+    {
+      "id": "colosseum-c05-lake",
+      "episode_id": "colosseum-20min",
+      "claim_id": "C05",
+      "fact_id": "colosseum-20min:C05",
+      "topic": "The Colosseum",
+      "prompt": "What do the notes say stood on the Colosseum's site in the grounds of the Domus Aurea?",
+      "choices": [
+        "Nero's artificial lake",
+        "The Forum of Trajan",
+        "The Circus Maximus",
+        "Pompey's theatre"
+      ],
+      "correct_index": 0,
+      "explanation": "Site of Nero's artificial lake in Domus Aurea grounds; lake drained/filled for amphitheatre",
+      "source": "https://en.wikipedia.org/wiki/Colosseum",
+      "source_location": "Construction",
+      "uncertainty": null
+    },
+    {
+      "id": "colosseum-c08-name",
+      "episode_id": "colosseum-20min",
+      "claim_id": "C08",
+      "fact_id": "colosseum-20min:C08",
+      "topic": "The Colosseum",
+      "prompt": "The notes say the name Colosseum likely comes from what?",
+      "choices": [
+        "the Colossus of Nero",
+        "the colour of the stone",
+        "a nearby hill",
+        "the poet Martial"
+      ],
+      "correct_index": 0,
+      "explanation": "Colossus of Nero, bronze, c.30 m, near entrance; name Colosseum likely from it",
+      "source": "https://en.wikipedia.org/wiki/Colossus_of_Nero",
+      "source_location": "Intro",
+      "uncertainty": "Height estimates vary"
+    },
+    {
+      "id": "colosseum-c04-crowd",
+      "episode_id": "colosseum-20min",
+      "claim_id": "C04",
+      "fact_id": "colosseum-20min:C04",
+      "topic": "The Colosseum",
+      "prompt": "What modern estimate of spectators do the notes give for the Colosseum?",
+      "choices": [
+        "~50,000",
+        "~10,000",
+        "~150,000",
+        "~5,000"
+      ],
+      "correct_index": 0,
+      "explanation": "Modern estimates ~50,000 spectators (ancient Codex-Calendar 87,000; range 50-80k)",
+      "source": "https://en.wikipedia.org/wiki/Colosseum",
+      "source_location": "Interior seating",
+      "uncertainty": "Estimates vary"
+    },
+    {
+      "id": "colosseum-c06-fire",
+      "episode_id": "colosseum-20min",
+      "claim_id": "C06",
+      "fact_id": "colosseum-20min:C06",
+      "topic": "The Colosseum",
+      "prompt": "In which year do the notes place the Great Fire of Rome?",
+      "choices": [
+        "AD 64",
+        "AD 69",
+        "AD 79",
+        "AD 80"
+      ],
+      "correct_index": 0,
+      "explanation": "Great Fire of Rome AD 64; Nero seized burned area",
+      "source": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome",
+      "source_location": "Intro",
+      "uncertainty": null
+    },
+    {
+      "id": "vatican20-c02-state",
+      "episode_id": "vatican-20min",
+      "claim_id": "C02",
+      "fact_id": "vatican-20min:C02",
+      "topic": "Vatican City",
+      "prompt": "In which year do the notes say Vatican City became a sovereign state?",
+      "choices": [
+        "1929",
+        "1870",
+        "1861",
+        "800"
+      ],
+      "correct_index": 0,
+      "explanation": "Vatican City grew from the site of St Peter's tomb and basilica and the papal palace to a sovereign state in 1929.",
+      "source": "https://en.wikipedia.org/wiki/Vatican_City",
+      "source_location": "History",
+      "uncertainty": null
+    },
+    {
+      "id": "vatican20-c11-charlemagne",
+      "episode_id": "vatican-20min",
+      "claim_id": "C11",
+      "fact_id": "vatican-20min:C11",
+      "topic": "Vatican City",
+      "prompt": "Who do the notes say was crowned emperor in Old St Peter's on Christmas Day 800?",
+      "choices": [
+        "Charlemagne",
+        "Constantine",
+        "Pepin",
+        "Justinian"
+      ],
+      "correct_index": 0,
+      "explanation": "Charlemagne was crowned emperor in Old St Peter's on Christmas Day 800.",
+      "source": "https://en.wikipedia.org/wiki/Charlemagne",
+      "source_location": "Coronation",
+      "uncertainty": null
+    },
+    {
+      "id": "vatican20-c08-constantine",
+      "episode_id": "vatican-20min",
+      "claim_id": "C08",
+      "fact_id": "vatican-20min:C08",
+      "topic": "Vatican City",
+      "prompt": "Who ordered Old St Peter's built, according to the notes?",
+      "choices": [
+        "Constantine",
+        "Charlemagne",
+        "Nero",
+        "Sixtus IV"
+      ],
+      "correct_index": 0,
+      "explanation": "Constantine ordered Old St Peter's built (begun c.318-322) with the altar over the monument believed to be Peter's grave.",
+      "source": "https://en.wikipedia.org/wiki/Old_St._Peter%27s_Basilica",
+      "source_location": "Intro/History",
+      "uncertainty": "Start date range 318-333 in sources"
+    },
+    {
+      "id": "vatican20-c28-michelangelo",
+      "episode_id": "vatican-20min",
+      "claim_id": "C28",
+      "fact_id": "vatican-20min:C28",
+      "topic": "Vatican City",
+      "prompt": "The notes say Michelangelo took over the rebuilding of St Peter's around which years?",
+      "choices": [
+        "1546-47",
+        "1508-12",
+        "1473-81",
+        "1929"
+      ],
+      "correct_index": 0,
+      "explanation": "Michelangelo took over St Peter's c.1546-47 aged ~71, returned to a central plan, worked unpaid (as commonly reported) until death in 1564.",
+      "source": "https://en.wikipedia.org/wiki/St._Peter%27s_Basilica",
+      "source_location": "Michelangelo",
+      "uncertainty": "Unpaid status is from contemporary accounts (Vasari)"
+    },
+    {
+      "id": "ep01-c11-lateran",
+      "episode_id": "ep01-vatican",
+      "claim_id": "C11",
+      "fact_id": "ep01-vatican:C11",
+      "topic": "Vatican City",
+      "prompt": "On what date do the notes say the Lateran Pacts were signed?",
+      "choices": [
+        "11 February 1929",
+        "20 September 1870",
+        "13 May 1871",
+        "18 February 1984"
+      ],
+      "correct_index": 0,
+      "explanation": "The Lateran Pacts were signed on 11 February 1929 by Cardinal Pietro Gasparri for the Holy See and Benito Mussolini for the Kingdom of Italy.",
+      "source": "https://www.vatican.va/roman_curia/secretariat_state/archivio/documents/rc_seg-st_19290211_patti-lateranensi_it.html",
+      "source_location": "Final signatures of Treaty and Financial Convention: 'PIETRO Cardinale GASPARRI  BENITO MUSSOLINI'; Treaty Art. 27 'Dated in Rome this 11th day of February, 1929'.",
+      "uncertainty": "Britannica's quick facts list Borgongini-Duca and Boselli as 'key people'; negotiators included Francesco Pacelli (not yet sourced). Signing location (Lateran Palace) not yet sourced."
+    },
+    {
+      "id": "ep01-c07-porta-pia",
+      "episode_id": "ep01-vatican",
+      "claim_id": "C07",
+      "fact_id": "ep01-vatican:C07",
+      "topic": "Vatican City",
+      "prompt": "On what date do the notes say Italian artillery breached the Aurelian Walls near Porta Pia?",
+      "choices": [
+        "20 September 1870",
+        "27 March 1861",
+        "11 February 1929",
+        "13 May 1871"
+      ],
+      "correct_index": 0,
+      "explanation": "On 20 September 1870 Italian artillery opened a breach in the Aurelian Walls near Porta Pia and troops entered Rome; the papal commander signed a capitulation the same day.",
+      "source": "https://www.treccani.it/enciclopedia/porta-pia-breccia-di_(Dizionario-di-Storia)/",
+      "source_location": "Treccani Dizionario di Storia (2011), 'Porta Pia, breccia di': on 20 Sept 1870 the stretch of Aurelian Walls between Porta Pia and Porta Salaria was the target of the main attack by Italian troops under Gen. R. Cadorna. After the first shots the Pope ordered papal commander H. Kanzler to limit the defence to the time needed to register the Holy See's protest; Kanzler delayed. The papal troops at Porta Pia surrendered only after an assault, as units nearest 'l'ampia breccia' (35th Bersaglieri battalion, 39th and 40th infantry) began the entry into Rome.",
+      "uncertainty": "Numbers differ: papal force 13,000 (Treccani Atlante) vs <16,000 (Esercito); Cadorna 50,000 (Treccani Atlante). Times differ by source (first shot 5.00-5.15; white flag ~10). Accusations over firing after the white flag are disputed (la Repubblica). Casualty numbers not sourced: do not narrate. Exact breach coordinate not sourced."
+    },
+    {
+      "id": "ep01-c09-guarantees",
+      "episode_id": "ep01-vatican",
+      "claim_id": "C09",
+      "fact_id": "ep01-vatican:C09",
+      "topic": "Vatican City",
+      "prompt": "What do the notes call Italy's 1871 law that granted the Pope honours but no sovereign territory?",
+      "choices": [
+        "Law of Guarantees",
+        "Lateran Pacts",
+        "Donation of Pippin",
+        "Law of Papal States"
+      ],
+      "correct_index": 0,
+      "explanation": "Italy's Law of Guarantees (13 May 1871) unilaterally granted the Pope honours, inviolability and an annual allowance, but no sovereign territory under international law.",
+      "source": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/guarantees-law",
+      "source_location": "'Contents' and 'Papal Attitude' paragraphs: unilateral domestic law, 'subject to revocation or suspension at any time'.",
+      "uncertainty": "Whether the Vatican palaces were granted as property or only 'use' is a nuance - check full text before narrating details."
+    },
+    {
+      "id": "conclave-c19-sistine",
+      "episode_id": "conclave-20min",
+      "claim_id": "C19",
+      "fact_id": "conclave-20min:C19",
+      "topic": "The Sistine Chapel",
+      "prompt": "The notes say Sixtus IV built the Sistine Chapel across which years?",
+      "choices": [
+        "1473–81",
+        "1508–12",
+        "1546–47",
+        "1268–71"
+      ],
+      "correct_index": 0,
+      "explanation": "Sixtus IV built the Sistine Chapel 1473–81; first conclave there Aug 1492 (6–11 Aug) elected Rodrigo Borgia (Alexander VI), notorious for allegations of vote-buying; Julius II later enacted stronger anti-simony rules.",
+      "source": "https://en.wikipedia.org/wiki/1492_papal_conclave",
+      "source_location": "Intro",
+      "uncertainty": "Bribery 'alleged'/'almost certainly' — not proven"
+    },
+    {
+      "id": "conclave-c35-ceiling",
+      "episode_id": "conclave-20min",
+      "claim_id": "C35",
+      "fact_id": "conclave-20min:C35",
+      "topic": "The Sistine Chapel",
+      "prompt": "The notes say Michelangelo painted the Sistine ceiling in which years?",
+      "choices": [
+        "1508–12",
+        "1536–41",
+        "1473–81",
+        "1546–47"
+      ],
+      "correct_index": 0,
+      "explanation": "Michelangelo painted the Sistine ceiling (1508–12) and the Last Judgement (1536–41).",
+      "source": "https://en.wikipedia.org/wiki/Sistine_Chapel",
+      "source_location": "Michelangelo sections",
+      "uncertainty": "—"
+    },
+    {
+      "id": "duomo-c01-year",
+      "episode_id": "duomo-20min",
+      "claim_id": "C01",
+      "fact_id": "duomo-20min:C01",
+      "topic": "Florence Duomo",
+      "prompt": "In which year do the notes say the new Florence cathedral was begun?",
+      "choices": [
+        "1296",
+        "1367",
+        "1436",
+        "1420"
+      ],
+      "correct_index": 0,
+      "explanation": "The new cathedral was begun in 1296 to a design by Arnolfo di Cambio, replacing Santa Reparata.",
+      "source": "https://duomo.firenze.it/en/opera-magazine/post/4436/the-dome-s-construction-work-begins-on-august-7th-1420",
+      "source_location": "Opera magazine 1420 post: founded 1296, designed by Arnolfo di Cambio",
+      "uncertainty": "Whether Arnolfo planned a dome of this size: 'not all historians agree' (Opera)"
+    },
+    {
+      "id": "duomo-c01-architect",
+      "episode_id": "duomo-20min",
+      "claim_id": "C01",
+      "fact_id": "duomo-20min:C01",
+      "topic": "Florence Duomo",
+      "prompt": "Who do the notes name as the designer of the cathedral begun in 1296?",
+      "choices": [
+        "Arnolfo di Cambio",
+        "Filippo Brunelleschi",
+        "Giotto",
+        "Michelozzo"
+      ],
+      "correct_index": 0,
+      "explanation": "The new cathedral was begun in 1296 to a design by Arnolfo di Cambio, replacing Santa Reparata.",
+      "source": "https://duomo.firenze.it/en/opera-magazine/post/4436/the-dome-s-construction-work-begins-on-august-7th-1420",
+      "source_location": "Opera magazine 1420 post: founded 1296, designed by Arnolfo di Cambio",
+      "uncertainty": "Whether Arnolfo planned a dome of this size: 'not all historians agree' (Opera)"
+    },
+    {
+      "id": "duomo-c30-consecration",
+      "episode_id": "duomo-20min",
+      "claim_id": "C30",
+      "fact_id": "duomo-20min:C30",
+      "topic": "Florence Duomo",
+      "prompt": "On what date do the notes say Pope Eugenius IV consecrated Florence Cathedral?",
+      "choices": [
+        "25 March 1436",
+        "30 August 1436",
+        "7 August 1420",
+        "26 April 1478"
+      ],
+      "correct_index": 0,
+      "explanation": "Pope Eugenius IV consecrated the cathedral on 25 March 1436.",
+      "source": "http://archivio.operaduomo.fi.it/cupola/ENG/HTML/S021/C471/T001/TBLOCK00.HTM",
+      "source_location": "13 Mar 1436: preparations for consecration 'per summum pontificem die viginti quinque martii 1436'",
+      "uncertainty": "Opera magazine says Eugene consecrated 'the Dome' on 30 Aug 1436 — conflict"
+    },
+    {
+      "id": "duomo-c02-span",
+      "episode_id": "duomo-20min",
+      "claim_id": "C02",
+      "fact_id": "duomo-20min:C02",
+      "topic": "Florence Duomo",
+      "prompt": "The notes say the 1367 model fixed an octagonal dome of about what span?",
+      "choices": [
+        "45.5 m",
+        "90 m",
+        "22 m",
+        "115 m"
+      ],
+      "correct_index": 0,
+      "explanation": "In 1367 a model by Neri di Fioravanti (and a committee) was chosen over Giovanni di Lapo Ghini's; it fixed an octagonal dome about 45.5 m across.",
+      "source": "https://duomo.firenze.it/en/opera-magazine/post/4436/the-dome-s-construction-work-begins-on-august-7th-1420",
+      "source_location": "1367 experts' project fixed the octagon and 45.5 m span",
+      "uncertainty": "Columbia summary (search only) says the choice went to a citizens' referendum; names of the committee vary"
+    },
+    {
+      "id": "duomo-c64-ball",
+      "episode_id": "duomo-20min",
+      "claim_id": "C64",
+      "fact_id": "duomo-20min:C64",
+      "topic": "Florence Duomo",
+      "prompt": "On what date do the notes say Verrocchio's gilded copper ball was hoisted onto the lantern?",
+      "choices": [
+        "27 May 1471",
+        "25 March 1436",
+        "30 August 1436",
+        "26 April 1478"
+      ],
+      "correct_index": 0,
+      "explanation": "Verrocchio's gilded copper ball (~2.5 m) hoisted 27 May 1471 (Landucci's diary), cross 30 May; young Leonardo in Verrocchio's workshop took part; Leonardo's later note (Ms G) on the soldering of the palla.",
+      "source": "https://duomo.firenze.it/en/opera-magazine/post/9712",
+      "source_location": "Opera magazine on the ball",
+      "uncertainty": "Wikipedia gives 1469 for the ball; Opera's 1471 used"
+    },
+    {
+      "id": "medici-c08-bank",
+      "episode_id": "medici-20min",
+      "claim_id": "C08",
+      "fact_id": "medici-20min:C08",
+      "topic": "The Medici",
+      "prompt": "In which year do the notes say Giovanni moved the Medici bank from Rome to Florence?",
+      "choices": [
+        "1397",
+        "1429",
+        "1478",
+        "1494"
+      ],
+      "correct_index": 0,
+      "explanation": "1397: Giovanni moved his bank from Rome to Florence; the Medici Bank dates from that year.",
+      "source": "https://en.wikipedia.org/wiki/Medici_Bank",
+      "source_location": "research/wiki_medici_bank.txt",
+      "uncertainty": "Founding date conventionally 1397"
+    },
+    {
+      "id": "medici-c25-palace",
+      "episode_id": "medici-20min",
+      "claim_id": "C25",
+      "fact_id": "medici-20min:C25",
+      "topic": "The Medici",
+      "prompt": "The notes say Cosimo chose which architect for the family palace?",
+      "choices": [
+        "Michelozzo",
+        "Brunelleschi",
+        "Alberti",
+        "Michelangelo"
+      ],
+      "correct_index": 0,
+      "explanation": "Cosimo is said to have rejected Brunelleschi's palace design as too grand; chose Michelozzo.",
+      "source": "https://www.britannica.com/biography/Cosimo-de-Medici",
+      "source_location": "research/britannica_and_institutions_webfetch_2026-10-26.md §BrC",
+      "uncertainty": "Anecdote via Vasari"
+    },
+    {
+      "id": "medici-c01-mass",
+      "episode_id": "medici-20min",
+      "claim_id": "C01",
+      "fact_id": "medici-20min:C01",
+      "topic": "The Medici",
+      "prompt": "On what date do the notes place Lorenzo and Giuliano at Mass in Florence Cathedral?",
+      "choices": [
+        "26 April 1478",
+        "25 March 1436",
+        "23 May 1498",
+        "27 May 1471"
+      ],
+      "correct_index": 0,
+      "explanation": "Sunday Mass in Florence Cathedral, 26 April 1478; Lorenzo and Giuliano present.",
+      "source": "https://www.britannica.com/biography/Lorenzo-de-Medici",
+      "source_location": "research/britannica_and_institutions_webfetch_2026-10-26.md §BrL",
+      "uncertainty": "—"
+    },
+    {
+      "id": "medici-c02-bankers",
+      "episode_id": "medici-20min",
+      "claim_id": "C02",
+      "fact_id": "medici-20min:C02",
+      "topic": "The Medici",
+      "prompt": "The notes say the Medici began as what?",
+      "choices": [
+        "bankers",
+        "soldiers",
+        "farmers",
+        "sailors"
+      ],
+      "correct_index": 0,
+      "explanation": "The Medici began as bankers and produced dukes, popes and queens.",
+      "source": "https://www.britannica.com/topic/Medici-family",
+      "source_location": "research/britannica_and_institutions_webfetch_2026-10-26.md §BrMed (four popes; queens Catherine and Marie)",
+      "uncertainty": "—"
+    },
+    {
+      "id": "medici-c14-burial",
+      "episode_id": "medici-20min",
+      "claim_id": "C14",
+      "fact_id": "medici-20min:C14",
+      "topic": "The Medici",
+      "prompt": "Where do the notes say Giovanni di Bicci was buried?",
+      "choices": [
+        "San Lorenzo",
+        "Santa Croce",
+        "the Duomo",
+        "the Bargello"
+      ],
+      "correct_index": 0,
+      "explanation": "Giovanni died 1429, buried in the (Old) Sacristy at San Lorenzo.",
+      "source": "https://www.britannica.com/biography/Cosimo-de-Medici",
+      "source_location": "research/britannica_and_institutions_webfetch_2026-10-26.md §BrC (Old Sacristy)",
+      "uncertainty": "—"
+    },
+    {
+      "id": "illuminati-c01-date",
+      "episode_id": "ep05-illuminati",
+      "claim_id": "C01",
+      "fact_id": "ep05-illuminati:C01",
+      "topic": "The Illuminati",
+      "prompt": "On what date do the notes say Adam Weishaupt founded the Illuminati in Ingolstadt?",
+      "choices": [
+        "1 May 1776",
+        "4 July 1776",
+        "14 July 1789",
+        "2 March 1785"
+      ],
+      "correct_index": 0,
+      "explanation": "A secret society, later called the Order of the Illuminati, was founded in Ingolstadt, Bavaria, on 1 May 1776 by Adam Weishaupt.",
+      "source": "https://www.uni-erfurt.de/en/gotha-research-centre/research/working-groups-and-networks/illuminati-research-unit",
+      "source_location": "'Founded in 1776 by the young professor of canon law Adam Weishaupt (1748-1830) at the University of Ingolstadt'",
+      "uncertainty": "Gotha dates the order '1776/78 to 1787/88'; 1 May is the traditional founding date (Britannica, 1911 EB, WDR 2021)"
+    },
+    {
+      "id": "illuminati-c01-founder",
+      "episode_id": "ep05-illuminati",
+      "claim_id": "C01",
+      "fact_id": "ep05-illuminati:C01",
+      "topic": "The Illuminati",
+      "prompt": "Who do the notes name as the founder of the Illuminati?",
+      "choices": [
+        "Adam Weishaupt",
+        "Adam Smith",
+        "Ignatius Loyola",
+        "Voltaire"
+      ],
+      "correct_index": 0,
+      "explanation": "A secret society, later called the Order of the Illuminati, was founded in Ingolstadt, Bavaria, on 1 May 1776 by Adam Weishaupt.",
+      "source": "https://www.uni-erfurt.de/en/gotha-research-centre/research/working-groups-and-networks/illuminati-research-unit",
+      "source_location": "'Founded in 1776 by the young professor of canon law Adam Weishaupt (1748-1830) at the University of Ingolstadt'",
+      "uncertainty": "Gotha dates the order '1776/78 to 1787/88'; 1 May is the traditional founding date (Britannica, 1911 EB, WDR 2021)"
+    },
+    {
+      "id": "illuminati-c02-decade",
+      "episode_id": "ep05-illuminati",
+      "claim_id": "C02",
+      "fact_id": "ep05-illuminati:C02",
+      "topic": "The Illuminati",
+      "prompt": "The notes say the Illuminati order existed for about how long?",
+      "choices": [
+        "about a decade",
+        "about a century",
+        "about fifty years",
+        "about a year"
+      ],
+      "correct_index": 0,
+      "explanation": "The order existed for only about a decade (to c. 1787/88).",
+      "source": "https://www.uni-erfurt.de/en/gotha-research-centre/research/working-groups-and-networks/illuminati-research-unit",
+      "source_location": "'existed from 1776/78 to 1787/88'; 'only existed for a good decade (according to current knowledge until 1787)'",
+      "uncertainty": "End date differs: Britannica 1785 (Bavaria), Gotha 1787/88 (Thuringia)"
+    },
+    {
+      "id": "illuminati-c22-edict",
+      "episode_id": "ep05-illuminati",
+      "claim_id": "C22",
+      "fact_id": "ep05-illuminati:C22",
+      "topic": "The Illuminati",
+      "prompt": "On what date do the notes say an edict named the Freemasons and the Illuminati and banned their meetings?",
+      "choices": [
+        "2 March 1785",
+        "1 May 1776",
+        "22 June 1784",
+        "11 October 1786"
+      ],
+      "correct_index": 0,
+      "explanation": "The edict of 2 March 1785 named Freemasons and Illuminati, banned their meetings, collections and recruiting, declared collected money forfeit and promised half to the informer.",
+      "source": "https://www.digitale-sammlungen.de/de/view/bsb00098194 (BSB print of the 2 March 1785 edict, PD scan; catalogue says 'Ausstellungsdatum 21. März' but the print reads 'den 2ten März 1785', header '2. Merz 1785')",
+      "source_location": "'…Logen der sogenannten Freymaurer und Illuminaten…'; 'verbiethen derselben all weitere Conventicula, anmaßliche Kollekten, und Anwerbungen neuer Mitglieder'; 'Geld und Gut, deklariren Wir für confiscabel … die Hälfte der armen Cassa, die andere Hälfte aber dem Aufbringer, wenn er gleich selbst ein Mitglied wäre'",
+      "uncertainty": "Scan read 24 Oct 2026 (OCR research/bsb00098194_ocr.hocr checked against image)"
+    },
+    {
+      "id": "parliament-c01-fire",
+      "episode_id": "ep03-parliament-fire",
+      "claim_id": "C01",
+      "fact_id": "ep03-parliament-fire:C01",
+      "topic": "Parliament",
+      "prompt": "On what date do the notes say fire destroyed most of the old Palace of Westminster?",
+      "choices": [
+        "16 October 1834",
+        "5 November 1605",
+        "2 September 1666",
+        "31 May 1859"
+      ],
+      "correct_index": 0,
+      "explanation": "On 16 October 1834 fire destroyed most of the old Palace of Westminster.",
+      "source": "https://www.parliament.uk/about/living-heritage/building/palace/architecture/key-dates-fire1834-to-present/",
+      "source_location": "Key dates: '1834 - The Great Fire destroys most of Palace ... 16 October'",
+      "uncertainty": "None on date/extent"
+    },
+    {
+      "id": "abbey-c04-consecration",
+      "episode_id": "ep02-westminster-abbey",
+      "claim_id": "C04",
+      "fact_id": "ep02-westminster-abbey:C04",
+      "topic": "Westminster Abbey",
+      "prompt": "On what date do the notes say Edward the Confessor's church was consecrated?",
+      "choices": [
+        "28 December 1065",
+        "6 January 1066",
+        "25 December 1066",
+        "14 October 1066"
+      ],
+      "correct_index": 0,
+      "explanation": "Edward's church was consecrated on 28 December 1065; the king was too ill to attend, died on the night of 4-5 January 1066 and was buried before the High Altar on 6 January 1066.",
+      "source": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith",
+      "source_location": "'consecrated on Holy Innocents' Day, 28th December 1065, but the king was ill and unable to be present' ; 'He died sometime on the night of 4-5th January 1066 ... buried on 6th'.",
+      "uncertainty": "Death date given as 5 January in many references; Abbey says night of 4-5 January."
+    },
+    {
+      "id": "abbey-c18-charles",
+      "episode_id": "ep02-westminster-abbey",
+      "claim_id": "C18",
+      "fact_id": "ep02-westminster-abbey:C18",
+      "topic": "Westminster Abbey",
+      "prompt": "The notes say King Charles III was crowned at the Abbey on which date?",
+      "choices": [
+        "6 May 2023",
+        "19 September 2022",
+        "2 June 1953",
+        "29 April 2023"
+      ],
+      "correct_index": 0,
+      "explanation": "King Charles III was the 40th reigning monarch to be crowned at the Abbey, on 6 May 2023.",
+      "source": "https://www.westminster-abbey.org/history/coronations-at-the-abbey/a-history-of-coronations",
+      "source_location": "'King Charles III was the 40th reigning monarch to be crowned in May 2023.'",
+      "uncertainty": "The count depends on conventions (Harold; joint monarchs). Attribute the number to the Abbey."
+    },
+    {
+      "id": "templar-c32-bull",
+      "episode_id": "ep07-knights-templar",
+      "claim_id": "C32",
+      "fact_id": "ep07-knights-templar:C32",
+      "topic": "The Knights Templar",
+      "prompt": "Which bull of 22 March 1312 do the notes name at the Council of Vienne?",
+      "choices": [
+        "Vox in excelso",
+        "Unam sanctam",
+        "Pastoralis praeeminentiae",
+        "Ad providam"
+      ],
+      "correct_index": 0,
+      "explanation": "Vox in excelso, 22 March 1312, Council of Vienne: abolished order 'not by definitive sentence ... but by apostolic provision or ordinance'; process 'does not permit its canonical condemnation as heretical by definitive sentence'; property to Hospitallers (Ad providam, 2 May 1312) or kept by secular rulers.",
+      "source": "Council of Vienne 1311–12, decrees incl. Vox in excelso, English trans. https://www.papalencyclicals.net/councils/ecum15.htm (after Tanner, Decrees of the Ecumenical Councils; local research/papal_vienne.txt)",
+      "source_location": "'We did this not by definitive sentence, since this would be unlawful according to the inquiries and processes carried out, but by apostolic provision or ordinance.'",
+      "uncertainty": "Britannica dates suppression 22 Mar 1312; Clement V page says 'April 1312'"
+    },
+    {
+      "id": "templar-c22-acre",
+      "episode_id": "ep07-knights-templar",
+      "claim_id": "C22",
+      "fact_id": "ep07-knights-templar:C22",
+      "topic": "The Knights Templar",
+      "prompt": "The notes say the city of Acre was stormed on which date in 1291?",
+      "choices": [
+        "18 May",
+        "28 May",
+        "13 October",
+        "22 March"
+      ],
+      "correct_index": 0,
+      "explanation": "Siege of Acre April–May 1291: city stormed 18 May; Guillaume de Beaujeu mortally wounded; Templar fortress fell 28 May when undermined walls collapsed.",
+      "source": "A.V. Murray (ed.), The Crusades: An Encyclopedia (ABC-CLIO 2006), 'Acre, Siege of (1291)'",
+      "source_location": "siege from early April; 18 May assault; Templar fortress collapse 28 May",
+      "uncertainty": "Exact start day 5/6 April"
+    },
+    {
+      "id": "masons-c11-tavern",
+      "episode_id": "ep06-freemasons",
+      "claim_id": "C11",
+      "fact_id": "ep06-freemasons:C11",
+      "topic": "The Freemasons",
+      "prompt": "The traditional account in the notes says four London lodges met at which tavern on 24 June 1717?",
+      "choices": [
+        "the Goose and Gridiron",
+        "the Freemasons' Tavern",
+        "the Mitre",
+        "the Cheshire Cheese"
+      ],
+      "correct_index": 0,
+      "explanation": "Traditional account: on 24 June 1717 four London lodges met at the Goose and Gridiron in St Paul's Churchyard, formed a Grand Lodge and elected Anthony Sayer.",
+      "source": "https://www.ugle.org.uk/discover-freemasonry/history-freemasonry (UGLE's own account; research/ugle_webfetch.txt)",
+      "source_location": "'On St John's Day, 24 June 1717, four London Lodges … Goose and Gridiron … elected Anthony Sayer as their first Grand Master.'",
+      "uncertainty": "Disputed (see next claim)"
+    }
+  ]
+}
